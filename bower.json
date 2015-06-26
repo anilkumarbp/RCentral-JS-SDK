@@ -16,10 +16,10 @@
   "dependencies": {
     "pubnub": "*",
     "cryptojslib": "*",
-    "es6-promise-polyfill": "*"
+    "es6-promise-polyfill": "*",
+    "rcsdk": "~1.2.1"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "private": false,
   "license": "MIT",
   "authors": [
